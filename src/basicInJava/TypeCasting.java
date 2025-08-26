@@ -12,8 +12,17 @@ public class TypeCasting {
         System.out.println("Type Casting : "+num1);
 
         // automatic type promotion in expressions
-        int a = 257;
-        byte b = (byte)(a);
-        System.out.println(b);
+        int num2 = 257;
+        byte num3 = (byte)(num2);
+        System.out.println(num3);
+
+        byte num4 = 40;
+        byte num5 = 50;
+        byte num6 = 100;
+        int Ans = (num4 * num5) / num6;
+        System.out.println("byte convert into integer : "+Ans);
+
+        int num7 = 'A';
+        System.out.println("Character Automatic convert into the integer : "+num7);
     }
 }
