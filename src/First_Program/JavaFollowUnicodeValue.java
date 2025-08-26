@@ -1,4 +1,4 @@
-package basicInJava;
+package First_Program;
 
 public class JavaFollowUnicodeValue {
     public static void main(String[] args) {
