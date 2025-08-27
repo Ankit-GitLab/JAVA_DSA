@@ -8,13 +8,15 @@ public class LargestOfThree {
         int c = sc.nextInt();
 
         // Q: find the largest of 3
-        int max = a;
-        if(b > max){
-            max = b;
-        }
-        if(c > max){
-            max = c;
-        }
+//        int max = a;
+//        if(b > max){
+//            max = b;
+//        }
+//        if(c > max){
+//            max = c;
+//        }
+
+        int max = Math.max(c , Math.max(a , b));
         System.out.println(max);
     }
 }
