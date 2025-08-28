@@ -1,7 +1,6 @@
 package Methods;
-import java.security.PublicKey;
 import java.util.Scanner;
-public class SumOfTwoNumber {
+public class SumOfTwoNumberThroughVoid {
     public static void main(String[] args) {
         sum();
     }
