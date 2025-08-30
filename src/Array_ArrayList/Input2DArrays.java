@@ -24,5 +24,11 @@ public class Input2DArrays {
         for(int row =0; row<arr2D.length; row++){
             System.out.println(Arrays.toString(arr2D[row]));
         }
+
+        // for each
+        System.out.println("For each!");
+        for(int[] a : arr2D){
+            System.out.println(Arrays.toString(a));
+        }
     }
 }
