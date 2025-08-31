@@ -9,7 +9,8 @@ public class SearchIn2DArray {
                 {18, 22}
         };
         int target = 35;
-        System.out.println(search(arr, target));
+        System.out.println("Find the target array is : "+search(arr, target));
+
 
     }
     static int search(int[][] arr, int  target){
@@ -23,4 +24,6 @@ public class SearchIn2DArray {
         }
         return ans;
     }
+
+
 }
