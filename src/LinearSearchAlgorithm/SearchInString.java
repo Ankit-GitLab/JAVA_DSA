@@ -1,6 +1,8 @@
 package LinearSearchAlgorithm;
 
 import javax.lang.model.element.NestingKind;
+import java.lang.reflect.Array;
+import java.util.Arrays;
 
 public class SearchInString {
     public static void main(String[] args) {
@@ -8,6 +10,7 @@ public class SearchInString {
         char target = 'A';
         System.out.println(search(name, target));
         System.out.println(search2(name, target));
+        System.out.println(Arrays.toString(name.toCharArray()));
 
     }
     //using for each
