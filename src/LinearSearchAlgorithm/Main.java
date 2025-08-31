@@ -1,6 +1,6 @@
 package LinearSearchAlgorithm;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         int[] num = {23, 45, 46, 12, 78, 98, 56};
         int target = 12;
