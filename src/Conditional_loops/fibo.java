@@ -4,17 +4,19 @@ public class fibo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        int a = 0;
-        int i = 1;
+        int First = 0;
+        int Second = 1;
         
         int count = 2;
         
-        while(count <= n){
-            int temp = i;
-            i = i + a;
-            a = temp;
+        while(count <= n+1){
+            System.out.print(First+" ");
+
+            int temp = Second;
+            Second = Second + First;
+            First = temp;
             count++;
         }
-        System.out.println(i);
+        sc.close();
     }
 }
