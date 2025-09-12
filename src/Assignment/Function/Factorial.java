@@ -17,8 +17,7 @@ public class Factorial {
         System.out.print("Enter a number : ");
         int num = sc.nextInt();
         for (int i = num; i>=0; i--){
-            System.out.println(i+"! = "+fact(num));
-            num--;
+            System.out.println(i+"! = "+fact(i));
         }
         sc.close();
     }
