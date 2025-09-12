@@ -1,12 +1,8 @@
-package Basic_Sorting;
+package Basic_Sorting.Bubble;
 
-public class BubbleSort {
+public class BubbleSortOptimised {
     public static void print(int[] arr) {
-        for (int i = 0; i < arr.length; i++) {
-            int ele = arr[i];
-            System.out.print(ele + " ");
-        }
-        System.out.println();
+        BubbleSort.printBubble(arr);
     }
 
     public static void main(String[] args) {
