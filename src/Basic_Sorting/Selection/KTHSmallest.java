@@ -3,16 +3,15 @@ import java.util.Scanner;
 public class KTHSmallest {
     //to find the Kth number
     public static int KthSmallest(int[] arr, int k){
-       int min =
+        return arr[k-1];
     }
 
     public static void print(int[] arr){
         SelectionSort.printSelection(arr);
     }
 
-    public static int[] sort(int[] arr){
+    public static void sort(int[] arr){
         SelectionSort.sort(arr);
-        return arr;
     }
 
     public static void main(String[] args) {
@@ -26,6 +25,9 @@ public class KTHSmallest {
 
        sort(arr); // sort the array
 
+        int Ans = KthSmallest(arr,k);
+        System.out.println(k+" th number is : "+Ans);
 
+        sc.close();
     }
 }
