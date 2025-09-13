@@ -12,7 +12,7 @@ public class SelectionSort {
     }
 
     // Function to perform selection sort
-    public static void sort(int[] arr) {
+    public static int[] sort(int[] arr) {
         int n = arr.length;
 
         // Outer loop -> fix one position at a time
@@ -29,6 +29,7 @@ public class SelectionSort {
             arr[i] = arr[mIndex];
             arr[mIndex] = temp;
         }
+        return arr;
     }
 
     public static void main(String[] args) {
