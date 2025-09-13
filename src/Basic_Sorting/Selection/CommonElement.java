@@ -46,10 +46,8 @@ public class CommonElement {
 //        print(arr2);
 
         //common element store
-        //common element store
         ArrayList<Integer> common = commonElement(arr1, arr2);
-        System.out.print("Common Elements : ");
-        System.out.println(common);
+        System.out.println("Common Elements : "+common);
 
     }
 }
