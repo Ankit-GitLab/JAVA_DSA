@@ -1,10 +1,10 @@
 package BinarySearch;
-import Basic_Sorting.Bubble.BubbleSort;
-import Basic_Sorting.Selection.SelectionSort;
-
-import java.time.chrono.MinguoDate;
 import java.util.Scanner;
-public class First_Occurrence {
+import Basic_Sorting.Bubble.BubbleSort;
+
+import java.util.Scanner;
+
+public class Last_Occurrence {
     public static int binarySearch(int[] arr, int target) {
         int lo = 0, hi = arr.length - 1, idx = -1;
         while (lo <= hi) {
@@ -16,7 +16,7 @@ public class First_Occurrence {
                 lo = mid + 1; // go right
             } else { // element mil gaya
                 idx = mid;   // store index
-                hi = mid - 1; // keep searching left for first occurrence
+                lo = mid + 1; // keep searching left for first occurrence
             }
         }
         return idx;
