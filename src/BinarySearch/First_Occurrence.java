@@ -5,18 +5,18 @@ import Basic_Sorting.Selection.SelectionSort;
 import java.time.chrono.MinguoDate;
 import java.util.Scanner;
 public class First_Occurrence {
-    public static int binarySearch(int[] arr, int target) {
+    public static int firstOccurrence(int[] arr, int target) {
         int lo = 0, hi = arr.length - 1, idx = -1;
         while (lo <= hi) {
             int mid = (lo + hi) / 2;
 
             if (arr[mid] > target) {
-                hi = mid - 1; // go left
+                hi = mid - 1;
             } else if (arr[mid] < target) {
-                lo = mid + 1; // go right
-            } else { // element mil gaya
-                idx = mid;   // store index
-                hi = mid - 1; // keep searching left for first occurrence
+                lo = mid + 1;
+            } else {
+                idx = mid;
+                hi = mid - 1;
             }
         }
         return idx;
@@ -37,7 +37,7 @@ public class First_Occurrence {
         // sort the array
         sort(arr);
 
-        int Ans = binarySearch(arr,target);
+        int Ans = firstOccurrence(arr,target);
         if(Ans==-1){
             System.out.println("Element not found!");
         }else{
