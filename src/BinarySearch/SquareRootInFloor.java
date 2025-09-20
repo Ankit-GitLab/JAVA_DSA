@@ -5,7 +5,7 @@ public class SquareRootInFloor {
         int root = 0;
         for(int i=0; i<=num; i++){
             if(i*i > num) break;
-                root = i;
+            root = i;
         }
         return root;
     }
