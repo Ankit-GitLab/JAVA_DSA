@@ -5,15 +5,16 @@ public class SearchInRotatedArray {
         int lo = 0, hi = arr.length - 1;
         while (lo <= hi) {
             int mid = lo + (hi - lo) / 2;
+
             if (arr[mid] == tar) return mid;
 
-            else if(arr[lo] <= arr[mid]) {
+            if(arr[lo] <= arr[mid]) {
                 if (tar >= arr[lo] && tar < arr[mid])  hi = mid - 1; // search left side
                  else  lo = mid + 1;  // search right side
             }
-            // Otherwise, right half must be sorted
+
             else {
-                if (tar > arr[mid] && tar <= arr[hi])  lo = mid + 1;  // search right side
+                if (tar <= arr[hi] && tar > arr[mid])  lo = mid + 1;  // search right side
                  else  hi = mid - 1; // search left side
             }
         }
