@@ -1,6 +1,6 @@
 package Basic_Sorting.Selection;
 import java.util.Scanner;
-public class KTHSmallest {
+public class KthSmallest {
     //to find the Kth number
     public static int KthSmallest(int[] arr, int k){
         return arr[k-1];
