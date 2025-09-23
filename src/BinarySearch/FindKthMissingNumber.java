@@ -15,7 +15,7 @@ public class FindKthMissingNumber {
 
     public static void main(String[] args) {
         int[] arr = {2, 3, 4, 7, 11};
-        int k = 5;
+        int k = 6;
         int result = findKthPositive(arr, k);
         System.out.println("The " + k + "th missing positive number is: " + result);
     }
