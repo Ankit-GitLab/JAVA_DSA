@@ -5,5 +5,9 @@ public class Plus {
         String a = "Ankit";
         a = a + " is a good man";
         System.out.println(a);
+        a += " "+ 10;
+        System.out.println(a);
+        a += " M";
+        System.out.println(a);
     }
 }
