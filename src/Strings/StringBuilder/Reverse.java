@@ -9,9 +9,10 @@ public class Reverse {
         while(i<=j){
             char temp1 = sb.charAt(i);
             char temp2 = sb.charAt(j);
-            char temp = temp1;
-            temp1 = temp2;
-            temp2 = temp;
+            sb.setCharAt(i,temp2);
+            sb.setCharAt(j,temp1);
+            i++;
+            j--;
         }
         System.out.println(sb);
         sb.reverse();
