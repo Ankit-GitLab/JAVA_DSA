@@ -9,5 +9,7 @@ public class StringBuilders {
         System.out.println(s);
         s.setCharAt(1,'m');
         System.out.println(s);
+        String t = s.toString();
+        System.out.println(t);
     }
 }
