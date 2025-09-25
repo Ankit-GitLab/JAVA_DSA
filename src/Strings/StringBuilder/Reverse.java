@@ -15,7 +15,14 @@ public class Reverse {
             j--;
         }
         System.out.println(sb);
+
         sb.reverse();
+        System.out.println(sb);
+
+        sb.deleteCharAt(1);
+        System.out.println(sb);
+
+        sb.insert(1,"n");
         System.out.println(sb);
     }
 }
