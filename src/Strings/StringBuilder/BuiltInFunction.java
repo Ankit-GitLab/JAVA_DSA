@@ -1,4 +1,4 @@
-package Strings;
+package Strings.StringBuilder;
 
 public class BuiltInFunction {
         public static void main(String[] args) {
