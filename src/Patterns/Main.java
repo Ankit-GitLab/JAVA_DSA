@@ -5,12 +5,12 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : ");
         int num = sc.nextInt();
-        pattern1(num);
+        pattern2(num);
     }
 
-    static void pattern1(int n){
+    static void pattern2(int n){
         for(int row=1; row<=n; row++){
-            for(int col=row; col<=n; col++){
+            for(int col=1; col<=row; col++){
                 System.out.print("* ");
             }
             System.out.println();
