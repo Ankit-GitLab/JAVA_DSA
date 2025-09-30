@@ -27,14 +27,14 @@ public class PolyMorphism {
         }
     }
     public static void main(String[] args) {
-        Dog d = new Dog();
+        Dog tommy = new Dog();
         Cat c = new Cat();
-        Human h = new Human();
+        Human ankit = new Human();
         Pikachu p = new Pikachu();
 
-        d.speak();
+        tommy.speak();
         c.speak();
-        h.speak();
+        ankit.speak();
         p.speak();
 
     }
