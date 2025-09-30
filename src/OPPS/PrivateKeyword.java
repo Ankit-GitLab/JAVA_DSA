@@ -1,4 +1,5 @@
 package OPPS;
+import java.util.Scanner;
 class Students{
     String name ;
     private int rno;
@@ -16,6 +17,7 @@ class Students{
 public class PrivateKeyword {
 
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         Students s1 = new Students();
         System.out.println(s1.name);
         s1.cgpa = 7.3;
@@ -27,5 +29,9 @@ public class PrivateKeyword {
         System.out.println(s1.getRno());
         s1.setRno(246003);
         System.out.println(s1.getRno());
+
+        System.out.print("Enter your name : ");
+        StringBuilder sb = new StringBuilder(sc.nextLine());
+        System.out.println(sb);
     }
 }
