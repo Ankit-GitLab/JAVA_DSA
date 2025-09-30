@@ -11,7 +11,7 @@ public class UserDefinedDataType {
     }
     public static void main(String[] args) {
         Student s1 = new Student(); // declaration
-        s1.name = "Ankt";
+        s1.name = "Ankit";
         s1.rno = 246003;
         s1.cgpa = 7.1;
 
@@ -26,5 +26,8 @@ public class UserDefinedDataType {
         s3.cgpa = 7.1;
 
         System.out.println(s1. name+ " "+s1.cgpa+" "+s1. rno) ;
+        s1.print();
+        s2.print();
+        s3.print();
     }
 }
