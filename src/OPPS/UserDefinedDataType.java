@@ -5,6 +5,9 @@ public class UserDefinedDataType {
         String name;
         int rno;
         double cgpa;
+        void print(){
+            System.out.println(name+" "+rno+" "+cgpa);
+        }
     }
     public static void main(String[] args) {
         Student s1 = new Student(); // declaration
