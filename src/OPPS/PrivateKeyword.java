@@ -3,8 +3,11 @@ class Students{
     String name ;
     private int rno;
     double cgpa;
-    private void print() {s1.rno = 12;
+    private void print() {
         System.out.println(name+" "+cgpa+" "+rno);
+    }
+    public void p(){
+        print();
     }
 }
 public class PrivateKeyword {
@@ -15,9 +18,8 @@ public class PrivateKeyword {
         s1.cgpa = 7.3;
         s1.name = "Ankit";
         // s1.rno = 12;
-        s1.print();
+        s1.p();
         Students s2 = new Students();
-        s2.print();
-
+        s2.p();
     }
 }
