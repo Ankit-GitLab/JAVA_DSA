@@ -18,5 +18,7 @@ public class Constructor {
     public static void main(String[] args) {
         Car c1 = new Car(5, "Kia Sonet",3.99);
         c1.print();
+        Car c2 = new Car(4, "Lord Alto",4.59);
+        c2.print();
     }
 }
