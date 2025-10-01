@@ -10,10 +10,13 @@ public class Constructor {
             name = s;
             length = d;
         }
+        void print(){
+            System.out.println(seats+" "+name+" "+length);
+        }
     }
 
     public static void main(String[] args) {
         Car c1 = new Car(5, "Kia Sonet",3.99);
-        System.out.println(c1.name);
+        c1.print();
     }
 }
