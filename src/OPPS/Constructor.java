@@ -5,6 +5,9 @@ public class Constructor {
         int seats;
         String name;
         double length;
+        Car(){ // default Constructor
+
+        }
         Car(int x, String s,  double d){ // default constructor
             seats = x;
             name = s;
@@ -20,5 +23,6 @@ public class Constructor {
         c1.print();
         Car c2 = new Car(4, "Lord Alto",4.59);
         c2.print();
+        Car c3 = new Car();
     }
 }
