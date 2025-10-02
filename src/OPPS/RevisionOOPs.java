@@ -1,16 +1,22 @@
 package OPPS;
-
-public class RevisionOOPs {
-    private static class Pokemon{
-        int power;
-        String type;
-        Pokemon(String type, int power){
-            this.power = power;
-            this.type = type;
-        }
+ class Pokemon{
+    private int power;
+    String type;
+    Pokemon(String type, int power){
+        this.power = power;
+        this.type = type;
     }
-    public static void main(String[] args) {
-        Pokemon p1 = new Pokemon("Electric",70);
+    void print(){
+        System.out.println(this.power+" "+this.type);
+    }
+}
+public class RevisionOOPs {
 
+    public static void main(String[] args) {
+        Pokemon pikachu = new Pokemon("Electric",70);
+        pikachu.type = "Fire";
+        Pokemon ligglypuff = new Pokemon("fairy",50);
+
+        pikachu.print(); ligglypuff.print();
     }
 }
