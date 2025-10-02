@@ -15,13 +15,12 @@ public class Constructor {
             name = s;
         }
         void print(){
-            System.out.println(price+" "+name);
+            int price = 12;
+            System.out.println(this.price+" "+name);
         }
     }
 
     public static void main(String[] args) {
-
-
         Car c1 = new Car(508754, "Kia Sonet");
         c1.print();
         Car c2 = new Car("Lord Alto",47393678);
