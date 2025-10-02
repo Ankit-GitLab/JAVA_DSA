@@ -11,6 +11,9 @@ public class Marks {
     public static void main(String[] args){
         StudentData s1 = new StudentData(5);
         StudentData s2 = new StudentData(2);
-
+        s1.marks[0] = 89;
+        s1.marks[1] = 79;
+        s1.marks[2] = 39;
+        s1.marks[3] = 56;
     }
 }
