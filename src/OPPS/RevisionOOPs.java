@@ -6,6 +6,13 @@ package OPPS;
         this.power = power;
         this.type = type;
     }
+     Pokemon(int power, String type){ // setters
+         this.power = power;
+         this.type = type;
+     }
+     int getPower(){
+        return power;
+     }
     void print(){ //getter
         System.out.println(this.power+" "+this.type);
     }
