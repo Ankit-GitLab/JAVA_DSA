@@ -10,6 +10,9 @@ package OPPS;
          this.power = power;
          this.type = type;
      }
+     Pokemon(){
+
+     }
      int getPower(){
         return power;
      }
@@ -23,7 +26,9 @@ public class RevisionOOPs {
         Pokemon pikachu = new Pokemon("Electric",70);
         pikachu.type = "Fire";
         Pokemon ligglypuff = new Pokemon("fairy",50);
-        Pokemon ankit = new Pokemon("Electric",60);
+        Pokemon gengar = new Pokemon();
         pikachu.print(); ligglypuff.print();
+        final int x = 89; // x cannot will be changed
+
     }
 }
