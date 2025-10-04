@@ -1,7 +1,7 @@
 package OPPS;
 
 class Cricketer{
-    static String country;
+    static String country = "NZ";
     int runs;
     String name;
     double avg;
@@ -15,6 +15,7 @@ class Cricketer{
 public class FinalAndStatic {
     public static void main(String[] args) {
         Cricketer.greet();
+        System.out.println(Cricketer.country);
 //        Cricketer c1 = new Cricketer() ;
 //        System.out.println(c1.country);
 //        Cricketer c2 = new Cricketer() ;
