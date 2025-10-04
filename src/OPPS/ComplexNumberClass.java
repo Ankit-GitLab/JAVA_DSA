@@ -6,17 +6,20 @@ class ComplexNumber{
         this.x = x;
         this.y = y;
     }
-    ComplexNumber(){
 
-    }
     void print(){
         if(y>=0) System.out.println(x+" + "+y+"i");
         else System.out.println(x+" - "+(-y)+"i");
     }
 
-    void add(ComplexNumber z2) {
-        x += z2.x;
-        y += z2.y;
+    void add(ComplexNumber z) {
+        x += z.x;
+        y += z.y;
+    }
+
+    void multiply(ComplexNumber z){
+        x = x*z.x - y*z.y;
+        y = x*z.y + y*z.x;
     }
 }
 
@@ -28,5 +31,7 @@ public class ComplexNumberClass {
         z1.print(); z2.print();
         z1.add(z2);
         z2.print();
+        z2.multiply(z1);
+        z1.print(); z2.print();
     }
 }
