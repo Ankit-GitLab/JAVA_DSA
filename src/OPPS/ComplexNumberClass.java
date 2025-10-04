@@ -7,13 +7,16 @@ class ComplexNumber{
         this.y = y;
     }
     void print(){
-        System.out.println(x+" "+y);
+        if(y>=0) System.out.println(x+" + "+y+"i");
+        else System.out.println(x+" - "+(-y)+"i");
     }
 }
 
 public class ComplexNumberClass {
     public static void main(String[] args) {
         ComplexNumber z1 = new ComplexNumber(2, -5);
-        z1.print();
+        ComplexNumber z2 = new ComplexNumber(3, 4);
+
+        z1.print(); z2.print();
     }
 }
