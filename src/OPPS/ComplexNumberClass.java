@@ -1,8 +1,8 @@
 package OPPS;
 class ComplexNumber{
-    int x;
-    int y;
-    ComplexNumber(int x, int y){
+    double x;
+    double y;
+    ComplexNumber(double x, double y){
         this.x = x;
         this.y = y;
     }
@@ -21,6 +21,10 @@ class ComplexNumber{
         x = x*z.x - y*z.y;
         y = x*z.y + y*z.x;
     }
+
+    void divide(ComplexNumber z){
+
+    }
 }
 
 public class ComplexNumberClass {
@@ -33,5 +37,6 @@ public class ComplexNumberClass {
         z2.print();
         z2.multiply(z1);
         z1.print(); z2.print();
+        z2.divide(z1);
     }
 }
