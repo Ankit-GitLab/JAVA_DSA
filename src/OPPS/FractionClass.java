@@ -18,8 +18,12 @@ class Fraction{
         den = den * f.den;
     }
     void multiple(Fraction f){
-        num *= f.num;
-        den *= f.den;
+        this.num *= f.num;
+        this.den *= f.den;
+    }
+    void divide(Fraction f){
+        num = den*f.num;
+        den = num*f.den;
     }
 }
 public class FractionClass {
@@ -31,5 +35,8 @@ public class FractionClass {
 //        f1.print();
         f1.multiple(f2);
         f1.print();
+        Fraction f3 = new Fraction(50, 100);
+        f3.divide(f3);
+        f3.print();
     }
 }
