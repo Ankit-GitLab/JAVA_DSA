@@ -6,8 +6,12 @@ public class Fibonacci {
         System.out.print("Enter a number : ");
         int n = sc.nextInt();
         for(int i=0; i<=n; i++){
-            System.out.print(fibo(i)+" ");
+            System.out.print(fiboFormula(i)+" ");
         }
+    }
+
+    static int fiboFormula(int n){
+        return (int)(Math.pow(((1+Math.sqrt(5))/2), n));
     }
     static int fibo(int n){
         // base condition
