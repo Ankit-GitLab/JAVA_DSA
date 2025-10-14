@@ -3,8 +3,6 @@ package Recursion;
 public class ReverseNumber {
     public static void main(String[] args) {
         int n = 123456;
-        reverse(n);
-        System.out.println(sum);
         System.out.println(rev2(n));
     }
     static int rev2(int n){
