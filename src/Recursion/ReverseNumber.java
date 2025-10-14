@@ -11,7 +11,11 @@ public class ReverseNumber {
         // sometimes you might need some additional variables in the argument
         // in that case, make another function
         int digits = (int) (Math.log10(n)) + 1;
-        return digits;
+        return helper(n, digits);
+    }
+
+    static int helper(int n, int digits) {
+
     }
 
     static int sum = 0;
