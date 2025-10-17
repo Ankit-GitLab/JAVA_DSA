@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Basic;
 
 public class ReverseNumber {
     public static void main(String[] args) {
