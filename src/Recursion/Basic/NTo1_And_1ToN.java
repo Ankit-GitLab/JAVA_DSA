@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Basic;
 import java.util.Scanner;
 public class NTo1_And_1ToN {
     public static void main(String[] args) {

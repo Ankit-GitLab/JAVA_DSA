@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Basic;
 
 public class Palindrome {
     static int rev(int n){

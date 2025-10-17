@@ -1,4 +1,4 @@
-package Recursion;
+package Recursion.Basic;
 
 public class DigitSum {
     public static void main(String[] args) {
