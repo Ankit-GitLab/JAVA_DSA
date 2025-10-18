@@ -1,4 +1,4 @@
-package Recursion.Bubble;
+package Recursion.Sort.Bubble;
 
 import java.util.Arrays;
 
