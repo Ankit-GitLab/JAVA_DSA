@@ -11,8 +11,8 @@ public class LinearSearch {
         System.out.println("index number is : "+findLastIndex(arr, target, arr.length-1));
        // findAllIndex(arr,4,0);
        // System.out.println(list);
-        int[] arr1;
-        System.out.println(findAllIndex(arr,4,0, new ArrayList<>()));
+        ArrayList<Integer> ans = findAllIndex(arr,4,0, new ArrayList<>());
+        System.out.println(ans);
 
     }
     // print index
