@@ -1,8 +1,6 @@
 package Recursion.Pattern;
 
-import java.awt.image.VolatileImage;
-
-public class Triangle {
+public class ReverseTriangle {
     public static void main(String[] args) {
     triangle(4, 0);
     }
