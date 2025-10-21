@@ -46,11 +46,7 @@ public class MergeSort {
         }
 
         // Copy remaining elements from first array (if any)
-        while (i < first.length ){
-            mix[k] = first[i];
-            i++;
-            k++;
-        }
+
 
         // Copy remaining elements from second array (if any)
         while (j < second.length ){
