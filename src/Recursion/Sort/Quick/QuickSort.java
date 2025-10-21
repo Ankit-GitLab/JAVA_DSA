@@ -16,7 +16,7 @@ public class QuickSort {
 
         while(s <= e){
 
-            // slso
+            // also a reason why if its already sorted it will not swap
             while(nums[s] < pivot){
                 s++;
             }
