@@ -2,12 +2,7 @@ package Recursion.Sort.Merge;
 
 import java.util.Arrays;
 
-public class MergeSort {
-    public static void main(String[] args) {
-        int[] arr = {5, 4, 3, 2, 1};
-        arr = mergeSort(arr);
-        System.out.println(Arrays.toString(arr));
-    }
+
 
     static int[] mergeSort(int[] arr){
         // Base case: if array has only one element, it's already sorted
