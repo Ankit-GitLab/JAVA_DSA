@@ -3,7 +3,11 @@ package Recursion.Sort.Selection;
 import java.util.Arrays;
 
 public class SelectionSortByRec {
-
+    public static void main(String[] args) {
+        int[] arr = {4, 3, 2, 1};
+        selectionSort(arr, arr.length, 0, 0);
+        System.out.println(Arrays.toString(arr) );
+    }
 
     static void selectionSort(int[] arr, int r, int c, int max){
         if(r==0){
