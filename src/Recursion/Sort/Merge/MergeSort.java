@@ -34,7 +34,16 @@ public class MergeSort {
         int k = 0; // pointer for mixed array
 
         // Compare elements from both arrays and add the smaller one
-
+        while(i < first.length && j < second.length){
+            if(first[i] < second[j]){
+                mix[k] = first[i];
+                i++;
+            }else{
+                mix[k] = second[j];
+                j++;
+            }
+            k++;
+        }
 
         // Copy remaining elements from first array (if any)
         while (i < first.length ){
