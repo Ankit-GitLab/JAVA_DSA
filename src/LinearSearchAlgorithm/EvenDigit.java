@@ -7,15 +7,7 @@ public class EvenDigit {
 
         System.out.println(digits2(-345678));
     }
-    static int findNumbers(int[] nums) {
-        int count = 0;
-        for(int num : nums) {
-            if (even(num)) {
-                count++;
-            }
-        }
-        return count;
-    }
+
 
     // function to check whether a number contains even digits or not
     static boolean even(int num) {
