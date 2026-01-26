@@ -5,215 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/BUILDING.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/NOTICE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/RELEASE-NOTES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/RUNNING.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/conf/catalina.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/conf/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/conf/jaspic-providers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/conf/jaspic-providers.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/conf/server.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/conf/tomcat-users.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/annotations-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/catalina-ant.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/catalina-ha.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/catalina-ssi.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/catalina-storeconfig.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/catalina-tribes.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/catalina.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/ecj-4.34.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/el-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/jakartaee-migration-1.0.9-shaded.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/jasper-el.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/jasper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/jaspic-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/jsp-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/servlet-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/tomcat-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/tomcat-coyote-ffm.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apache-tomcat-11.0.4/lib/tomcat-coyote.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/Array2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/ArrayListExamole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/ArrayList_Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/Basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/Input2DArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/InputInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/InputString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/Max.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/MultiAL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/Swap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Array_ArrayList/passingFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Arrays/BuildArrayFromPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Arrays/ConcatenationOfArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Arrays/LeetCode_1365.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Arrays/LeetCode_1470.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Arrays/RunningSumOfArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Conditional_Loop/Addition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Conditional_Loop/AreaOfCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Conditional_Loop/AreaOfParallelogram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Conditional_Loop/AreaOfRhombus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Conditional_Loop/AreaOfTringle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Conditional_Loop/AverageCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Conditional_Loop/ElectricityBill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Conditional_Loop/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Conditional_Loop/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Conditional_Loop/ProductSubtractDigit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/First_java/ConvertCurrency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/First_java/EvenOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/First_java/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/First_java/Greeting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/First_java/Largest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/First_java/Operator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/First_java/SimpleInterest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Function/Area_Circumference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Function/EvenOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Function/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Function/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Function/MaxMin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Function/PrimeOrNot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Function/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Function/SumOfNaturalNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Function/SumOfTwo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Function/VotingAge.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Assignment/Sorted/LeetCode_88.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Bubble/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Bubble/BubbleSortOptimised.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Bubble/DescendingOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Bubble/MoveAllZeroToEnd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Insertion/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Selection/CommonElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Selection/KthSmallest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Selection/LargestFirst.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Selection/PairWithGivenSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Selection/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/Selection/UnionOfTwoArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Basic_Sorting/StabilityOfBubble/Basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/Basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/DescendingOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/FindKthMissingNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/First_Occurrence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/Last_Occurrence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/LeetCode_2529.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/LeetCode_441.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/OrderAgnosticBS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/PeakIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/SearchInRotatedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/SearchInSortedMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/SingleAmongInDoubleSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/SortedArraySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/SquareRootInBinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/SquareRootInFloor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/floorInSortedArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/BinarySearch/leetCode_704.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/Basic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/CaseChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/CountNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/DoWhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/ForLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/LargestOfThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/Multiple_if_else.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/ReverseNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/WhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Conditional_loops/fibo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/First_Program/AddTwoNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/First_Program/Input.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/First_Program/JavaFollowUnicodeValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/First_Program/TypeCasting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/LinearSearchAlgorithm/EvenDigit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/LinearSearchAlgorithm/FindMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/LinearSearchAlgorithm/FindMin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/LinearSearchAlgorithm/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/LinearSearchAlgorithm/MaxIn2DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/LinearSearchAlgorithm/MinIn2DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/LinearSearchAlgorithm/SearchIn2DArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/LinearSearchAlgorithm/SearchInRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/LinearSearchAlgorithm/SearchInString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/LinearSearchAlgorithm/maximumWealth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/MathForDSA/FindUnique.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/MathForDSA/OddEven.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Methods/AddThroughReturn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Methods/SumOfTwoNumberThroughVoid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/OPPS/ComplexNumberClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/OPPS/Constructor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/OPPS/FinalAndStatic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/OPPS/FractionClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/OPPS/Marks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/OPPS/PolyMorphism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/OPPS/PrivateKeyword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/OPPS/RevisionOOPs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/OPPS/UserDefinedDataType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/OPPS/passingClassesToMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Patterns/DoubleTringle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Patterns/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Patterns/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Patterns/Tringle2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Project/resource/Aap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Project/resource/CommandConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Project/resource/ToDoListGui.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Array/ArrayIsSortedOrNot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Array/LinearSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Array/RBS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Array/returnTheList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/BS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/Concept.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/CountZero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/DigitProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/DigitSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/Message.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/NTo1_And_1ToN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/Nto1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/NumberExampleRecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/OneToN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/Palindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/ReverseNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Basic/Steps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Pattern/ReverseTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Pattern/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Sort/Bubble/Bubble.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Sort/Bubble/BubbleSortByRec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Sort/Merge/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Sort/Merge/MergeSortInPlace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Sort/Quick/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Recursion/Sort/Selection/SelectionSortByRec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/Arraylist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/ChangeTheString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/CharAt_Length.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/CompareToString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/Concat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/CountDigits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/EqualTo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/Immutability.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/IntToString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/NumberOfVowels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/PalindromeString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/PassingStringToMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/Plus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/PrintAllSubString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/StringBasic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/StringBuilder/BuiltInFunction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/StringBuilder/Reverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/StringBuilder/StringBuilders.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/StringToCharArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/SubStringOfString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/Strings/SumOfSubString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/SwitchStatement_NestedCase/DisplayDayName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/SwitchStatement_NestedCase/FruitChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/SwitchStatement_NestedCase/NestedSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Raghav/SwitchStatement_NestedCase/WeekDay_WeekEnds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,175 +50,175 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AddThroughReturn.executor": "Run",
-    "Application.AddTwoNumber.executor": "Run",
-    "Application.AreaOfCircle.executor": "Run",
-    "Application.AreaOfParallelogram.executor": "Run",
-    "Application.AreaOfTringle.executor": "Run",
-    "Application.Area_Circumference.executor": "Run",
-    "Application.Array2D.executor": "Run",
-    "Application.ArrayIsSortedOrNot.executor": "Run",
-    "Application.ArrayListExamole.executor": "Run",
-    "Application.ArrayList_Input.executor": "Run",
-    "Application.AverageCalculator.executor": "Run",
-    "Application.BS.executor": "Debug",
-    "Application.Basic.executor": "Run",
-    "Application.BinarySearch.Basic.executor": "Debug",
-    "Application.Bubble.executor": "Run",
-    "Application.BubbleSort.executor": "Run",
-    "Application.BubbleSortOptimised.executor": "Run",
-    "Application.BuildArrayFromPermutation.executor": "Run",
-    "Application.BuiltInFunction.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.CaseChecker.executor": "Run",
-    "Application.ChangeTheString.executor": "Run",
-    "Application.CharAt_Length.executor": "Run",
-    "Application.CommonElement.executor": "Run",
-    "Application.CompareToString.executor": "Run",
-    "Application.ComplexNumberClass.executor": "Run",
-    "Application.Concat.executor": "Run",
-    "Application.ConcatenationOfArray.executor": "Run",
-    "Application.Constructor.executor": "Run",
-    "Application.ConvertCurrency.executor": "Run",
-    "Application.Count.executor": "Run",
-    "Application.CountDigits.executor": "Run",
-    "Application.CountZero.executor": "Run",
-    "Application.DescendingOrder.executor": "Run",
-    "Application.DigitProduct.executor": "Run",
-    "Application.DigitSum.executor": "Run",
-    "Application.DisplayDayName.executor": "Run",
-    "Application.DoWhileLoop.executor": "Run",
-    "Application.DoubleTringle.executor": "Run",
-    "Application.ElectricityBill.executor": "Run",
-    "Application.EqualTo.executor": "Run",
-    "Application.EvenOdd.executor": "Run",
-    "Application.Fabionacci.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.FinalAndStatic.executor": "Run",
-    "Application.FindKthMissingNumber.executor": "Run",
-    "Application.FindMax.executor": "Run",
-    "Application.FindMin.executor": "Run",
-    "Application.FindUnique.executor": "Run",
-    "Application.First_Occurrence.executor": "Run",
-    "Application.FractionClass.executor": "Run",
-    "Application.FruitChecker.executor": "Debug",
-    "Application.Greeting.executor": "Run",
-    "Application.Immutability.executor": "Run",
-    "Application.Input.executor": "Run",
-    "Application.Input2DArrays.executor": "Run",
-    "Application.InputString.executor": "Run",
-    "Application.IntToString.executor": "Run",
-    "Application.JavaFollowUnicodeValue.executor": "Run",
-    "Application.KTHSmallest.executor": "Run",
-    "Application.KthSmallest.executor": "Run",
-    "Application.Largest.executor": "Run",
-    "Application.LargestFirst.executor": "Run",
-    "Application.LargestOfThree.executor": "Run",
-    "Application.Last_Occurrence.executor": "Run",
-    "Application.LeetCode_1365.executor": "Run",
-    "Application.LeetCode_1470.executor": "Run",
-    "Application.LeetCode_2529.executor": "Run",
-    "Application.LeetCode_441.executor": "Run",
-    "Application.LinearSearch.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Marks.executor": "Run",
-    "Application.Max.executor": "Run",
-    "Application.MaxIn2DArray.executor": "Run",
-    "Application.MaxMin.executor": "Run",
-    "Application.MergeSort.executor": "Debug",
-    "Application.MergeSortInPlace.executor": "Run",
-    "Application.Message.executor": "Debug",
-    "Application.MinIn2DArray.executor": "Run",
-    "Application.MoveAllZeroToEnd.executor": "Run",
-    "Application.MultiAL.executor": "Run",
-    "Application.Multiple_if_else.executor": "Run",
-    "Application.NTo1_And_1ToN.executor": "Run",
-    "Application.NestedSwitch.executor": "Run",
-    "Application.Nto1.executor": "Run",
-    "Application.NumberExample.executor": "Debug",
-    "Application.NumberExampleRecursion.executor": "Run",
-    "Application.NumberOfVowels.executor": "Run",
-    "Application.OddEven.executor": "Run",
-    "Application.OneToN.executor": "Run",
-    "Application.Operator.executor": "Run",
-    "Application.OrderAgnosticBS.executor": "Debug",
-    "Application.PairWithGivenSum.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PalindromeString.executor": "Run",
-    "Application.PassingStringToMethod.executor": "Run",
-    "Application.PeakIndex.executor": "Run",
-    "Application.Plus.executor": "Run",
-    "Application.PolyMorphism.executor": "Run",
-    "Application.PrimeOrNot.executor": "Run",
-    "Application.PrintAllSubString.executor": "Run",
-    "Application.PrivateKeyword.executor": "Run",
-    "Application.Product.executor": "Run",
-    "Application.RBS.executor": "Run",
-    "Application.Reverse.executor": "Run",
-    "Application.ReverseNumber.executor": "Run",
-    "Application.RevisionOOPs.executor": "Run",
-    "Application.RunningSumOfArray.executor": "Run",
-    "Application.SearchIn2DArray.executor": "Run",
-    "Application.SearchInRange.executor": "Run",
-    "Application.SearchInRotatedArray.executor": "Run",
-    "Application.SearchInSortedMatrix.executor": "Run",
-    "Application.SearchInString.executor": "Run",
-    "Application.SelectionSort.executor": "Run",
-    "Application.SelectionSortByRec.executor": "Run",
-    "Application.SimpleInterest.executor": "Run",
-    "Application.SingleAmongInDoubleSortedArray.executor": "Run",
-    "Application.SortedArraySearch.executor": "Run",
-    "Application.Square.executor": "Run",
-    "Application.SquareRootInBinarySearch.executor": "Run",
-    "Application.SquareRootInFloor.executor": "Run",
-    "Application.StringBasic.executor": "Run",
-    "Application.StringBuilders.executor": "Run",
-    "Application.StringToCharArray.executor": "Run",
-    "Application.SumOfNaturalNumber.executor": "Run",
-    "Application.SumOfSubString.executor": "Run",
-    "Application.SumOfTwo.executor": "Run",
-    "Application.SumOfTwoNumber.executor": "Run",
-    "Application.Swap.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "Application.Tringle2.executor": "Run",
-    "Application.TypeCasting.executor": "Run",
-    "Application.UnionOfTwoArray.executor": "Debug",
-    "Application.UserDefinedDataType.executor": "Run",
-    "Application.VotingAge.executor": "Run",
-    "Application.WeekDay_WeekEnds.executor": "Run",
-    "Application.WhileLoop.executor": "Run",
-    "Application.fibo.executor": "Run",
-    "Application.floorInSortedArray.executor": "Run",
-    "Application.leetCode_704.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.passingClassesToMethod.executor": "Run",
-    "Application.passingFunction.executor": "Run",
-    "Application.program.executor": "Run",
-    "Application.returnTheList.executor": "Debug",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ankit/OneDrive/Desktop/IntelliJ IDEA 2024.3.4.1.lnk",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddThroughReturn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddTwoNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaOfCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaOfParallelogram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaOfTringle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Area_Circumference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayIsSortedOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListExamole.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList_Input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AverageCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BS.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.Basic.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Bubble.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSortOptimised.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuildArrayFromPermutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuiltInFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CaseChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChangeTheString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharAt_Length.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareToString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComplexNumberClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Concat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatenationOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertCurrency.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DescendingOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitProduct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DisplayDayName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleTringle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ElectricityBill.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualTo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fabionacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalAndStatic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindKthMissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindUnique.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_Occurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FractionClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FruitChecker.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Greeting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Immutability.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Input2DArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InputString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntToString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaFollowUnicodeValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KTHSmallest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KthSmallest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestFirst.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestOfThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Last_Occurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode_1365.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode_1470.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode_2529.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode_441.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Marks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxIn2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MergeSortInPlace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Message.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MinIn2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveAllZeroToEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiAL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiple_if_else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NTo1_And_1ToN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nto1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberExample.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NumberExampleRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfVowels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OneToN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OrderAgnosticBS.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PairWithGivenSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PassingStringToMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeakIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Plus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PolyMorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintAllSubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrivateKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Product.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RBS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RevisionOOPs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunningSumOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchIn2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInRange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInRotatedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInSortedMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectionSortByRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleAmongInDoubleSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedArraySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Square.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquareRootInBinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquareRootInFloor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilders.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringToCharArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfNaturalNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfSubString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfTwoNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tringle2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnionOfTwoArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.UserDefinedDataType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VotingAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeekDay_WeekEnds.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.floorInSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.leetCode_704.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.passingClassesToMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.passingFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.returnTheList.executor&quot;: &quot;Debug&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ankit/OneDrive/Desktop/JAVA_DSA/src/Ankit_Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Strings" />
@@ -606,7 +400,15 @@
       <workItem from="1767897546703" duration="840000" />
       <workItem from="1768127233427" duration="113000" />
       <workItem from="1768127380266" duration="31000" />
-      <workItem from="1768127478173" duration="629000" />
+      <workItem from="1768127478173" duration="1059000" />
+      <workItem from="1768129018085" duration="899000" />
+      <workItem from="1768132773476" duration="120000" />
+      <workItem from="1768136962680" duration="22000" />
+      <workItem from="1768945528116" duration="1000" />
+      <workItem from="1768945534852" duration="6000" />
+      <workItem from="1769057411628" duration="17000" />
+      <workItem from="1769386291859" duration="37000" />
+      <workItem from="1769386351169" duration="83000" />
     </task>
     <servers />
   </component>
