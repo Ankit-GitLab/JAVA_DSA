@@ -7,6 +7,7 @@
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LinkedList/DisplayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/DisplayList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -412,7 +413,8 @@
       <workItem from="1769386291859" duration="37000" />
       <workItem from="1769386351169" duration="83000" />
       <workItem from="1769386555130" duration="4070000" />
-      <workItem from="1769391052599" duration="592000" />
+      <workItem from="1769391052599" duration="880000" />
+      <workItem from="1769445241780" duration="1111000" />
     </task>
     <servers />
   </component>

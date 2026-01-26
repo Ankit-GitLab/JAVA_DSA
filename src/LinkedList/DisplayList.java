@@ -1,4 +1,5 @@
 package LinkedList;
+import java.util.Scanner;
 class Node{
     int val;
     Node next;
@@ -7,7 +8,15 @@ class Node{
         this.val = val;
     }
 }
+
 public class DisplayList {
+    public static void displayRec(Node head){
+        if(head == null) return;
+        System.out.print(head.val+" ");
+        displayRec(head.next);
+
+    }
+
     public static void display(Node head) {
         //using while loop
         Node temp = head;
@@ -23,7 +32,8 @@ public class DisplayList {
         System.out.println();
     }
     public static void main(String[] args) {
-        Node a = new Node(10); // head node
+        Scanner sc = new Scanner(System.in);
+        Node a = new Node(sc.nextInt()); // head node
         Node b = new Node(200);
         Node c = new Node(30);
         Node d = new Node(40);
@@ -32,6 +42,7 @@ public class DisplayList {
         a.next = b; b.next = c;
         c.next = d; d.next = e;
         e.next = f;
-        display(a);
+//        display(a);
+        displayRec(a);
     }
-}
+ }
