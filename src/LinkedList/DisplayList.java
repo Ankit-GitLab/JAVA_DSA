@@ -8,12 +8,19 @@ class Node{
     }
 }
 public class DisplayList {
-    public static void display(Node head){
+    public static void display(Node head) {
+        //using while loop
         Node temp = head;
-        while(temp!=null){
-            System.out.print(temp.val+" ");
+        while (temp != null) {
+            System.out.print(temp.val + " ");
             temp = temp.next;
+
         }
+        ////         using for loop
+//        for(Node temp = head; temp != null; temp = temp.next){
+//            System.out.print(temp.val+" ");
+//        }
+        System.out.println();
     }
     public static void main(String[] args) {
         Node a = new Node(10); // head node
