@@ -32,8 +32,8 @@ public class DisplayList {
         System.out.println();
     }
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        Node a = new Node(sc.nextInt()); // head node
+
+        Node a = new Node(10); // head node
         Node b = new Node(200);
         Node c = new Node(30);
         Node d = new Node(40);
@@ -43,6 +43,14 @@ public class DisplayList {
         c.next = d; d.next = e;
         e.next = f;
 //        display(a);
-        displayRec(a);
+//        displayRec(a);
+        System.out.println(get(a,4));
+    }
+    private static int get(Node head, int idx){
+        Node temp = head;
+        for(int i = 1; i<=idx; i++){
+            temp = temp.next;
+        }
+        return temp.val;
     }
  }
