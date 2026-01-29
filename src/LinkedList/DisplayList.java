@@ -1,13 +1,6 @@
 package LinkedList;
 import java.util.Scanner;
-class Node{
-    int val;
-    Node next;
 
-    Node(int val){
-        this.val = val;
-    }
-}
 
 public class DisplayList {
     public static void displayRec(Node head){
