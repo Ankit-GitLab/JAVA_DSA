@@ -17,14 +17,17 @@ class Linkedlist{
     int size;
 
     void addAtTail(int val){
-        Node temp = new Node(val);
+
         if(tail == null){
-            head = tail = temp;
+            addAtHead(val);
+            return;
         } else {
+            Node temp = new Node(val);
             tail.next = temp;
             tail = temp;
+            size++;
         }
-        size++;
+
     }
     void addAtHead(int val){
         Node temp = new Node(val);
@@ -34,7 +37,9 @@ class Linkedlist{
             temp.next = head;
             head = temp;
         }
+        size++;
 
+    }
     void deleteAtHead(){
         if(head == null){
             System.out.println("list is empty");
@@ -44,7 +49,6 @@ class Linkedlist{
         if(head == null) tail = null;
         size--;
     }
-
     void display(){
         Node temp = head;
         while(temp != null){
