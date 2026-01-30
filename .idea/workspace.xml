@@ -232,26 +232,6 @@
       <recent name="Ankit_Java.Array_ArrayList" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="LinkedListDataStructure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedListDataStructure" />
-      <module name="JAVA_DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.LinkedListDataStructure" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -440,7 +420,8 @@
       <workItem from="1769563527669" duration="2540000" />
       <workItem from="1769659544449" duration="6497000" />
       <workItem from="1769746735644" duration="1878000" />
-      <workItem from="1769749189614" duration="1516000" />
+      <workItem from="1769749189614" duration="3055000" />
+      <workItem from="1769753109752" duration="1986000" />
     </task>
     <servers />
   </component>
