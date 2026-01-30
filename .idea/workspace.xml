@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/LinkedListDataStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedListDataStructure.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -421,7 +420,7 @@
       <workItem from="1769659544449" duration="6497000" />
       <workItem from="1769746735644" duration="1878000" />
       <workItem from="1769749189614" duration="3055000" />
-      <workItem from="1769753109752" duration="1986000" />
+      <workItem from="1769753109752" duration="3483000" />
     </task>
     <servers />
   </component>
