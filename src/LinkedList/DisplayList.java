@@ -3,14 +3,14 @@ import java.util.Scanner;
 
 
 public class DisplayList {
-    public static void displayRec(Node head){
+    void displayRec(Node head){
         if(head == null) return;
         System.out.print(head.val+" ");
         displayRec(head.next);
 
     }
 
-    public static void display(Node head) {
+    void display(Node head) {
         //using while loop
         Node temp = head;
         while (temp != null) {
