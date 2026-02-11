@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/middleElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/oddEvenLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -437,7 +434,7 @@
       <workItem from="1770612238275" duration="5098000" />
       <workItem from="1770704794726" duration="1349000" />
       <workItem from="1770710083934" duration="413000" />
-      <workItem from="1770784537206" duration="298000" />
+      <workItem from="1770784537206" duration="627000" />
     </task>
     <servers />
   </component>
