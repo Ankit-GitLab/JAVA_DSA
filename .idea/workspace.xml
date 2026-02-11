@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/middleElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/oddEvenLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -420,7 +422,22 @@
       <workItem from="1769659544449" duration="6497000" />
       <workItem from="1769746735644" duration="1878000" />
       <workItem from="1769749189614" duration="3055000" />
-      <workItem from="1769753109752" duration="3483000" />
+      <workItem from="1769753109752" duration="5180000" />
+      <workItem from="1769836779778" duration="1515000" />
+      <workItem from="1769923811226" duration="1212000" />
+      <workItem from="1770021746979" duration="600000" />
+      <workItem from="1770094947730" duration="604000" />
+      <workItem from="1770098407383" duration="1247000" />
+      <workItem from="1770105877628" duration="641000" />
+      <workItem from="1770178566329" duration="2969000" />
+      <workItem from="1770267679942" duration="76000" />
+      <workItem from="1770267768739" duration="2618000" />
+      <workItem from="1770527137979" duration="44000" />
+      <workItem from="1770527192150" duration="1494000" />
+      <workItem from="1770612238275" duration="5098000" />
+      <workItem from="1770704794726" duration="1349000" />
+      <workItem from="1770710083934" duration="413000" />
+      <workItem from="1770784537206" duration="298000" />
     </task>
     <servers />
   </component>
