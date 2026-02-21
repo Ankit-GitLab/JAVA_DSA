@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stacks/BasicSTLOfStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/PushAtStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/ReverseTheStackRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/LLImplementionOfStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/BasicSTLOfStack.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +116,7 @@
     "Application.JavaFollowUnicodeValue.executor": "Run",
     "Application.KTHSmallest.executor": "Run",
     "Application.KthSmallest.executor": "Run",
+    "Application.LLImplementionOfStack.executor": "Run",
     "Application.Largest.executor": "Run",
     "Application.LargestFirst.executor": "Run",
     "Application.LargestOfThree.executor": "Run",
@@ -446,6 +443,7 @@
       <workItem from="1770799296324" duration="737000" />
       <workItem from="1771391297639" duration="263000" />
       <workItem from="1771568204626" duration="7130000" />
+      <workItem from="1771647135935" duration="2637000" />
     </task>
     <servers />
   </component>
