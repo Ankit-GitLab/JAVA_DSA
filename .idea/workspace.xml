@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/BasicSTLOfStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/BasicSTLOfStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/PushAtStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/ReverseTheStackRec.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/BasicSTLOfStack.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,9 +165,11 @@
     "Application.PrintAllSubString.executor": "Run",
     "Application.PrivateKeyword.executor": "Run",
     "Application.Product.executor": "Run",
+    "Application.PushAtStack.executor": "Run",
     "Application.RBS.executor": "Run",
     "Application.Reverse.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
+    "Application.ReverseTheStackRec.executor": "Run",
     "Application.RevisionOOPs.executor": "Run",
     "Application.RunningSumOfArray.executor": "Run",
     "Application.SearchIn2DArray.executor": "Run",
@@ -440,7 +445,7 @@
       <workItem from="1770784537206" duration="627000" />
       <workItem from="1770799296324" duration="737000" />
       <workItem from="1771391297639" duration="263000" />
-      <workItem from="1771568204626" duration="1696000" />
+      <workItem from="1771568204626" duration="7130000" />
     </task>
     <servers />
   </component>
