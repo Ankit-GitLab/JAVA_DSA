@@ -9,17 +9,15 @@ class Node{
 class MyStack{
     Node head;
     int len;
-    int peek(){ // top of  head
+    int peek() throws Exception {
         if(head == null){
-            System.out.println("stack is empty");
-            return -1;
+            throw new Exception("stack underflow");
         }
         return head.val;
     }
-    int pop(){ // delete at head
+    int pop() throws Exception { // delete at head
         if(head == null){
-            System.out.println("stack is empty");
-            return -1;
+            throw new Exception("stack underflow");
         }
         int x = head.val;
         head = head.next;
@@ -48,8 +46,10 @@ class MyStack{
     }
 }
 public class LLImplementionOfStack {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception{
         MyStack st = new MyStack();
+        System.out.println("In this code get error");
+        st.pop();
         st.push(10);
         st.push(20);
         st.push(30);
