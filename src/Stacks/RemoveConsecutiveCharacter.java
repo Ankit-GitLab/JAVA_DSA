@@ -3,10 +3,6 @@ package Stacks;
 import java.util.Stack;
 
 public class RemoveConsecutiveCharacter {
-    public static void main(String[] args) {
-
-    }
-
     public String removeConsecutiveCharacter(String s) {
         if (s == null || s.length() == 0) return s;
 

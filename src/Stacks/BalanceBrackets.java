@@ -3,9 +3,6 @@ package Stacks;
 import java.util.Stack;
 
 public class BalanceBrackets {
-    public static void main(String[] args) {
-
-    }
     static boolean isBalanced(String s) {
         int n = s.length();
         if(n%2!=0) return false;
