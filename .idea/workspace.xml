@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stacks/CanSeePersonCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks/StockSpanProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stacks/NextGreaterElement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stacks/NextGreaterElement2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,8 +239,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+        <option value="bundled-jdk-9823dce3aa75-84258761d1cc-intellij.indexing.shared.core-IU-243.28141.18" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.28141.18" />
       </set>
     </attachedChunks>
   </component>
@@ -450,7 +447,9 @@
       <workItem from="1771647135935" duration="7206000" />
       <workItem from="1771666671276" duration="2592000" />
       <workItem from="1771752968603" duration="11474000" />
-      <workItem from="1771921254830" duration="6403000" />
+      <workItem from="1771921254830" duration="6729000" />
+      <workItem from="1772037247886" duration="404000" />
+      <workItem from="1772038377079" duration="517000" />
     </task>
     <servers />
   </component>
