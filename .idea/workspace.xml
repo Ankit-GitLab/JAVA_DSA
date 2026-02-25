@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stacks/NextGreaterElement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/CanSeePersonCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/StockSpanProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stacks/NextGreaterElement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stacks/NextGreaterElement2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -448,7 +450,7 @@
       <workItem from="1771647135935" duration="7206000" />
       <workItem from="1771666671276" duration="2592000" />
       <workItem from="1771752968603" duration="11474000" />
-      <workItem from="1771921254830" duration="1204000" />
+      <workItem from="1771921254830" duration="6403000" />
     </task>
     <servers />
   </component>
