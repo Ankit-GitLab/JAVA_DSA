@@ -6,11 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
       <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queues/BasicSTLOfQueues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queues/TraversalInQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queues/TraversalInQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queues/TraversalInQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +40,10 @@
     &quot;accountId&quot;: &quot;bb2a727e-5796-4a67-ba9c-edeb4cf3a518&quot;
   }
 }</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "9a9a80ff",
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="31VXygKHCpFpL0tUKrB5WgdBHQQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -218,6 +218,7 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
@@ -469,7 +470,7 @@
       <workItem from="1772541530746" duration="2099000" />
       <workItem from="1772589687076" duration="189000" />
       <workItem from="1772589894865" duration="1054000" />
-      <workItem from="1772679694135" duration="631000" />
+      <workItem from="1772679694135" duration="4431000" />
     </task>
     <servers />
   </component>
