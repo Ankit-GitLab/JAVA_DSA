@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
       <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queues/ReArrangQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queues/FirstNegativeInEveryWindowOfSizeK.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -479,7 +480,8 @@
       <workItem from="1772725247195" duration="187000" />
       <workItem from="1772730126281" duration="625000" />
       <workItem from="1772800224750" duration="1417000" />
-      <workItem from="1772899851641" duration="989000" />
+      <workItem from="1772899851641" duration="1660000" />
+      <workItem from="1772956268739" duration="651000" />
     </task>
     <servers />
   </component>

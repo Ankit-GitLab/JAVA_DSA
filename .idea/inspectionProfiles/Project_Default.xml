@@ -4,6 +4,7 @@
     <inspection_tool class="SizeReplaceableByIsEmpty" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredTypes">
         <set>
+          <option value="java.util.Queue" />
           <option value="java.util.Stack" />
         </set>
       </option>
