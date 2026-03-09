@@ -1,4 +1,8 @@
 package BinaryTrees;
+
+import java.util.LinkedList;
+import java.util.Queue;
+
 class Node{
     int val;
     Node left;
@@ -22,14 +26,26 @@ public class Implementation {
         b.left = d; b.right = e;
         c.left = f; c.right = g;
 
-        display(a);
+//        display(a);
+//        System.out.println();
+//        System.out.println(size(a));
+//        System.out.println(sum(a));
+//        System.out.println(product(a));
+//        System.out.println(max(a));
+//        System.out.println(levels(a));
+        levelOrder(a);
+    }
 
+    private static void levelOrder(Node root) {
+        Queue<Node> q = new LinkedList<>();
+        q.add(root);
+        while(q.size()>0){
+            Node front = q.remove();
+            System.out.print(front.val+" ");
+            if(front.left!=null) q.add(front.left);
+            if(front.right!=null) q.add(front.right);
+        }
         System.out.println();
-        System.out.println(size(a));
-        System.out.println(sum(a));
-        System.out.println(product(a));
-        System.out.println(max(a));
-        System.out.println(levels(a));
     }
 
     private static int levels(Node root){
