@@ -29,6 +29,12 @@ public class Implementation {
         System.out.println(sum(a));
         System.out.println(product(a));
         System.out.println(max(a));
+        System.out.println(levels(a));
+    }
+
+    private static int levels(Node root){
+        if(root==null) return 0;
+        return 1 + Math.max(levels(root.left),levels(root.right));
     }
 
     private static int max(Node root) {
