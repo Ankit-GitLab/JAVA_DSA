@@ -44,7 +44,16 @@ public class Implementation {
 //        System.out.println(max(a));
 //        System.out.println(levels(a));
 //        levelOrder(a);
-        levelOrderLineWise(a);
+//        levelOrderLineWise(a);
+        KThLevel(a,0,2);
+    }
+
+    private static void KThLevel(Node root, int level, int k) {
+        if(root==null) return;
+        if(level==k) System.out.print(root.val+" ");
+        KThLevel(root.left,level+1,k);
+        KThLevel(root.right,level+1,k);
+
     }
 
     private static void levelOrderLineWise(Node root) {
