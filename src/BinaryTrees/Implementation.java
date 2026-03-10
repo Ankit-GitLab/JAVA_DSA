@@ -1,7 +1,6 @@
 package BinaryTrees;
 
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 class Node{
     int val;
@@ -45,7 +44,12 @@ public class Implementation {
 //        System.out.println(levels(a));
 //        levelOrder(a);
 //        levelOrderLineWise(a);
-        KThLevel(a,0,2);
+
+//        for(int i=0;i<levels(a);i++) {
+//            KThLevel(a, 0, i);
+//            System.out.println();
+//        }
+
     }
 
     private static void KThLevel(Node root, int level, int k) {
@@ -120,4 +124,5 @@ public class Implementation {
         display(root.left);
         display(root.right);
     }
+
 }

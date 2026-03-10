@@ -8,6 +8,7 @@
       <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BinaryTrees/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTrees/Implementation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -484,7 +485,8 @@
       <workItem from="1772974236155" duration="7104000" />
       <workItem from="1773028270355" duration="3723000" />
       <workItem from="1773047102574" duration="6712000" />
-      <workItem from="1773117629705" duration="2678000" />
+      <workItem from="1773117629705" duration="3435000" />
+      <workItem from="1773129054409" duration="766000" />
     </task>
     <servers />
   </component>
