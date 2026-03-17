@@ -239,6 +239,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="BinarySearchTree" />
       <recent name="Queues" />
       <recent name="LinkedList" />
       <recent name="Strings" />
@@ -492,6 +493,8 @@
       <workItem from="1773307796123" duration="1455000" />
       <workItem from="1773319031076" duration="4344000" />
       <workItem from="1773667325009" duration="4000" />
+      <workItem from="1773667354586" duration="871000" />
+      <workItem from="1773741647896" duration="684000" />
     </task>
     <servers />
   </component>
