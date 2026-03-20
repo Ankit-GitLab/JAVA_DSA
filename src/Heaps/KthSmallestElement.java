@@ -5,6 +5,7 @@ import java.util.PriorityQueue;
 
 public class KthSmallestElement {
     public int kthSmallest(int[] arr, int k) {
+        //maxheap
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
         for(int ele : arr){
             pq.add(ele);
