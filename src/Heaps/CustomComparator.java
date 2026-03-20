@@ -12,7 +12,8 @@ class Student implements Comparable<Student>{
         this.cgpa = cgpa;
     }
     public int compareTo(Student s){
-        return this.rno - s.rno;
+        return Double.compare(s.cgpa,this.cgpa); // for reverse
+        //return Double.compare(this.cgpa,s.cgpa); // not reverse
     }
 }
 public class CustomComparator {
@@ -26,7 +27,7 @@ public class CustomComparator {
         Student[] arr = {s1,s2,s3,s4,s5};
         Arrays.sort(arr);
         for(Student s : arr){
-            System.out.print(s.name+"  ");
+            System.out.println(s.name+" "+s.rno+" "+s.cgpa);
         }
     }
 }
