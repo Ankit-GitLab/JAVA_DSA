@@ -13,7 +13,7 @@ class Triplet implements Comparable<Triplet>{
     }
 
     public int compareTo(Triplet t) {
-        return this.dist - t.dist;
+        return Integer.compare(this.dist,t.dist);
     }
 }
 public class KClosestPointToOrigin {
@@ -29,7 +29,7 @@ public class KClosestPointToOrigin {
 
         ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
 
-        while (!pq.isEmpty()) {
+        while (pq.size()!=0) {
             Triplet top = pq.remove();
             ArrayList<Integer> list = new ArrayList<>();
             list.add(top.x);
