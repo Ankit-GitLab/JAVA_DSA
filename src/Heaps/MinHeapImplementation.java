@@ -54,7 +54,7 @@ class Heap{
                     int temp = arr[root];
                     arr[root] = arr[left];
                     arr[left] = temp;
-                    root = left;
+                     
                 }
                 else{ // right child se swap karna hai
                     int temp = arr[root];
