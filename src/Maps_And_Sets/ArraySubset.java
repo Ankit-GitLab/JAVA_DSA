@@ -15,6 +15,7 @@ public class ArraySubset {
         HashMap<Integer,Integer> bMap = new HashMap<>();
         for(int ele : b){
             if(!aMap.containsKey(ele)) return false;
+
             if(bMap.containsKey(ele)){
                 int freq = bMap.get(ele);
                 bMap.put(ele,freq+1);
