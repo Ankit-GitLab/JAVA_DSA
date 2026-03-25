@@ -13,5 +13,18 @@ public class MostFrequentChar {
             }
             else map.put(ch,1);
         }
+        int maxFreq =0;
+        for(char ch : map.keySet()){
+            int freq = map.get(ch);
+            if(freq>maxFreq) maxFreq = freq;
+        }
+        char ans = 'z';
+        for(char ch : map.keySet()){
+            int freq =map.get(ch);
+            if(freq==maxFreq && ch<=ans){
+                ans = ch;
+            }
+        }
+        return ans;
     }
 }
