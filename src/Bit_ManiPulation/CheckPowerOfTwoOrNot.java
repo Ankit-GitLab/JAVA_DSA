@@ -1,6 +1,6 @@
 package Bit_ManiPulation;
 public class CheckPowerOfTwoOrNot {
-        public static boolean isPowerofTwo(int n) {
+    public static boolean isPowerofTwo(int n) {
             return n > 0 && ((n&(n-1))==0);
 
     }

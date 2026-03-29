@@ -8,6 +8,7 @@
       <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bit_ManiPulation/CheckPowerOfTwoOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bit_ManiPulation/CheckPowerOfTwoOrNot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -519,7 +520,7 @@
       <workItem from="1774528067507" duration="4786000" />
       <workItem from="1774629513402" duration="2131000" />
       <workItem from="1774756458807" duration="9198000" />
-      <workItem from="1774788400520" duration="4456000" />
+      <workItem from="1774788400520" duration="4923000" />
     </task>
     <servers />
   </component>
