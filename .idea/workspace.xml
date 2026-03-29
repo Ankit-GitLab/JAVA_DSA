@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
       <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bit_ManiPulation/TwoKiPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bit_ManiPulation/SetTheKthBit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -520,7 +520,7 @@
       <workItem from="1774527502640" duration="439000" />
       <workItem from="1774528067507" duration="4786000" />
       <workItem from="1774629513402" duration="2131000" />
-      <workItem from="1774756458807" duration="7398000" />
+      <workItem from="1774756458807" duration="8797000" />
     </task>
     <servers />
   </component>
