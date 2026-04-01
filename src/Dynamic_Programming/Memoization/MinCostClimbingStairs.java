@@ -1,4 +1,4 @@
-package Dynamic_Programming;
+package Dynamic_Programming.Memoization;
 
 import java.util.*;
 

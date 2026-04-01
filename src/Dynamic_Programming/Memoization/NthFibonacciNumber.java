@@ -1,4 +1,4 @@
-package Dynamic_Programming;
+package Dynamic_Programming.Memoization;
 
 public class NthFibonacciNumber {
     static int[] dp;

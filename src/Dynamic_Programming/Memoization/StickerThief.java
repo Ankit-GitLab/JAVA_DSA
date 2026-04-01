@@ -1,5 +1,4 @@
-package Dynamic_Programming;
-import java.lang.reflect.Array;
+package Dynamic_Programming.Memoization;
 import java.util.*;
 public class StickerThief {
     static int[] dp;
