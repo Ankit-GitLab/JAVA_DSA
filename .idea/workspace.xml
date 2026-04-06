@@ -6,10 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
       <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prefix_Sum/AnswerQueries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prefix_Sum/ProductExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prefix_Sum/ProductExceptSelf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -533,7 +533,7 @@
       <workItem from="1775196637968" duration="1287000" />
       <workItem from="1775320874894" duration="1797000" />
       <workItem from="1775364060660" duration="706000" />
-      <workItem from="1775438907535" duration="5100000" />
+      <workItem from="1775438907535" duration="9327000" />
     </task>
     <servers />
   </component>
