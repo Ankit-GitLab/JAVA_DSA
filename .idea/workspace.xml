@@ -6,16 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
       <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sliding_Window/MaximumSubarraysSizeK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sliding_Window/NumOfSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sliding_Window/NumSubArraysProductOfLessThanK.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java College/06 If Else &amp; Switch Statement/06 If Else &amp; Switch Statement.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java College/07 Loops in Java/07 Loops in Java.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java College/Java College.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sliding_Window/MinSubarraysLen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sliding_Window/MinSubarraysLen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sliding_Window/NumOfSubarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sliding_Window/NumOfSubarrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -543,7 +540,7 @@
       <workItem from="1775320874894" duration="1797000" />
       <workItem from="1775364060660" duration="706000" />
       <workItem from="1775438907535" duration="15370000" />
-      <workItem from="1775546684602" duration="3574000" />
+      <workItem from="1775546684602" duration="4662000" />
     </task>
     <servers />
   </component>
