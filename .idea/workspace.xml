@@ -11,7 +11,7 @@
       <change afterPath="$PROJECT_DIR$/../Java College/Java College.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sliding_Window/MinSubarraysLen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sliding_Window/MinSubarraysLen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sliding_Window/NumSubArraysProductOfLessThanK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sliding_Window/NumSubArraysProductOfLessThanK.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -539,7 +539,7 @@
       <workItem from="1775320874894" duration="1797000" />
       <workItem from="1775364060660" duration="706000" />
       <workItem from="1775438907535" duration="15370000" />
-      <workItem from="1775546684602" duration="6310000" />
+      <workItem from="1775546684602" duration="6631000" />
     </task>
     <servers />
   </component>
