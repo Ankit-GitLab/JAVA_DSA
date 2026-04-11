@@ -12,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sliding_Window/LongestSubarrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sliding_Window/LongestSubarrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -541,7 +542,8 @@
       <workItem from="1775438907535" duration="15370000" />
       <workItem from="1775546684602" duration="6961000" />
       <workItem from="1775572856993" duration="1873000" />
-      <workItem from="1775755666228" duration="444000" />
+      <workItem from="1775755666228" duration="844000" />
+      <workItem from="1775838806734" duration="3591000" />
     </task>
     <servers />
   </component>
