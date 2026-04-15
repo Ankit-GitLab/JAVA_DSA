@@ -6,11 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
       <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Programming/Tabulation/Knapsack0_1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java College/06 If Else &amp; Switch Statement/06 If Else &amp; Switch Statement.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java College/07 Loops in Java/07 Loops in Java.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java College/Java College.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -545,6 +547,8 @@
       <workItem from="1775931024295" duration="3471000" />
       <workItem from="1776011628622" duration="111000" />
       <workItem from="1776096504986" duration="336000" />
+      <workItem from="1776181343994" duration="71000" />
+      <workItem from="1776225175706" duration="695000" />
     </task>
     <servers />
   </component>
