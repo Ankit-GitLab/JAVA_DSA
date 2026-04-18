@@ -12,11 +12,6 @@
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstWebApp/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstWebApp/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstWebApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstWebApp/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstWebApp/src/main/java/MyFirstWebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstWebApp/src/main/java/MyFirstWebApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstWebApp/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstWebApp/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ServeltLifeCycle/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServeltLifeCycle/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -556,7 +551,9 @@
       <workItem from="1776304382808" duration="120000" />
       <workItem from="1776305699193" duration="75000" />
       <workItem from="1776306507660" duration="1943000" />
-      <workItem from="1776445178921" duration="628000" />
+      <workItem from="1776445178921" duration="1102000" />
+      <workItem from="1776513501885" duration="1211000" />
+      <workItem from="1776534000004" duration="578000" />
     </task>
     <servers />
   </component>
