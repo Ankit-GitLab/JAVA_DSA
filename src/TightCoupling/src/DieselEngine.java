@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
-public class DieselEngine {
+public class DieselEngine implements Engine{
+    public void start(){
+        System.out.println("Diesel engine started......");
+    }
 }

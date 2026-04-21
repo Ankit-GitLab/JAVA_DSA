@@ -1,5 +1,10 @@
 public class Car {
-    PertolEngine engine = new PertolEngine();
+
+    Engine engine;
+
+    public Car(Engine engine){
+        this.engine = engine;
+    }
 
     public void drive(){
         engine.start();

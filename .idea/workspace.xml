@@ -12,6 +12,14 @@
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/ContainDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/ContainDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TightCoupling/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/TightCoupling/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TightCoupling/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TightCoupling/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TightCoupling/src/DieselEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TightCoupling/src/DieselEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TightCoupling/src/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TightCoupling/src/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TightCoupling/src/EngineFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TightCoupling/src/EngineFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TightCoupling/src/PertolEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TightCoupling/src/PertolEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TightCoupling/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TightCoupling/src/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -553,7 +561,10 @@
       <workItem from="1776306507660" duration="1943000" />
       <workItem from="1776445178921" duration="1102000" />
       <workItem from="1776513501885" duration="1211000" />
-      <workItem from="1776534000004" duration="578000" />
+      <workItem from="1776534000004" duration="953000" />
+      <workItem from="1776595916977" duration="111000" />
+      <workItem from="1776604418833" duration="7000" />
+      <workItem from="1776647490867" duration="24000" />
     </task>
     <servers />
   </component>

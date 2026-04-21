@@ -1,6 +1,4 @@
-public class Engine {
+public interface Engine {
 
-    public void start(){
-        System.out.println("engine started......");
-    }
+    public void start();
 }

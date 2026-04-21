@@ -1,7 +1,7 @@
 package org.example;
 
 public class Student {
-    private Course course; // course type ka object
+    public Course course; // course type ka object
     //dependency injection
     //setter injection
 
@@ -10,6 +10,13 @@ public class Student {
         this.course = course;
     }
 
+    public Student(){
+
+    }
+
+    public Student(Course course) {
+        this.course = course;
+    }
 
     public void study(){
         int start = course.enroll();
