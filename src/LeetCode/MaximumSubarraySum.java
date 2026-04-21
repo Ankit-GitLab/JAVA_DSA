@@ -1,6 +1,6 @@
 package LeetCode;
 
-public class MaximumSubarray {
+public class MaximumSubarraySum {
     public int maxSubArray(int[] nums) {
         int maxSum = nums[0];
         int currentSum = nums[0];
