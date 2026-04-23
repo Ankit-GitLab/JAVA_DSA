@@ -5,6 +5,7 @@ public class Car {
     private Engine engine;
 
     public void setEngine(Engine engine) {
+        System.out.println("set engine() called...");
         this.engine = engine;
     }
 

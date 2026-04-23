@@ -3,9 +3,9 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
                            https://www.springframework.org/schema/beans/spring-beans.xsd">
+
        <bean id="PetrolEng" class="org.cfs.PetrolEngine"/>
-       <bean id="car" class="org.cfs.Car">
-              <property name="engine" ref="PetrolEng"></property>
-       </bean>
+       <bean id="dieselEng" class="org.cfs.DieselEngine"/>
+       <bean id="car" class="org.cfs.Car"/>
 
 </beans>
