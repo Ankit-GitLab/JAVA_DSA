@@ -11,12 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../Java College/Java College.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spring Core/SpringCore-P01/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring Core/SpringCore-P01/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spring Core/SpringCore-P01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring Core/SpringCore-P01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spring Core/SpringCore-P01/src/main/java/org/cfs/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring Core/SpringCore-P01/src/main/java/org/cfs/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spring Core/SpringCore-P01/src/main/java/org/cfs/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring Core/SpringCore-P01/src/main/java/org/cfs/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spring Core/SpringCore-P01/src/main/resources/Beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring Core/SpringCore-P01/src/main/resources/Beans.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -569,6 +563,7 @@
       <workItem from="1776943520151" duration="38000" />
       <workItem from="1776943721622" duration="33000" />
       <workItem from="1776956130556" duration="41000" />
+      <workItem from="1776963718273" duration="59000" />
     </task>
     <servers />
   </component>
