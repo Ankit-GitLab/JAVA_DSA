@@ -11,8 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../Java College/Java College.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bit_ManiPulation/CheckKthBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bit_ManiPulation/CheckKthBit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -571,6 +569,7 @@
       <workItem from="1778000753182" duration="596000" />
       <workItem from="1778039937260" duration="6000" />
       <workItem from="1778511560678" duration="323000" />
+      <workItem from="1778513454112" duration="24000" />
     </task>
     <servers />
   </component>
