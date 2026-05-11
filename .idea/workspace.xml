@@ -11,6 +11,8 @@
       <change afterPath="$PROJECT_DIR$/../Java College/Java College.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../EXPLORER/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bit_ManiPulation/CheckKthBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bit_ManiPulation/CheckKthBit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,8 +267,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.33514.17" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.33514.17" />
       </set>
     </attachedChunks>
   </component>
@@ -564,6 +566,11 @@
       <workItem from="1776943721622" duration="33000" />
       <workItem from="1776956130556" duration="41000" />
       <workItem from="1776963718273" duration="59000" />
+      <workItem from="1777482781827" duration="218000" />
+      <workItem from="1777972510078" duration="406000" />
+      <workItem from="1778000753182" duration="596000" />
+      <workItem from="1778039937260" duration="6000" />
+      <workItem from="1778511560678" duration="323000" />
     </task>
     <servers />
   </component>
