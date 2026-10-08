@@ -1,15 +1,9 @@
 package TCS;
 
 public class JumpGame {
-    public boolean canJump(int[] nums) {
-        int n =nums.length;
-        int maxReach = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (i > maxReach) return false;
-            maxReach = Math.max(maxReach, i + nums[i]);
+    public static void main(String[] args) {
+        for (int i = 0; i < 500; i++) {
+            System.out.println("i love you simi " + i + " time");
         }
-
-        return true;
     }
 }
