@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ankitRevise/array/Find_Pivot.java" afterDir="false" />
       <change beforePath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Postman.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Postman.lnk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../STUDY_SEC/C Language" beforeDir="false" afterPath="$PROJECT_DIR$/../STUDY_SEC/C Language" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../STUDY_SEC/ECOM-FRONTEND" beforeDir="false" afterPath="$PROJECT_DIR$/../STUDY_SEC/ECOM-FRONTEND" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../STUDY_SEC/EMS" beforeDir="false" afterPath="$PROJECT_DIR$/../STUDY_SEC/EMS" afterDir="false" />
@@ -16,6 +17,17 @@
       <change beforePath="$PROJECT_DIR$/../STUDY_SEC/Spring Boot" beforeDir="false" afterPath="$PROJECT_DIR$/../STUDY_SEC/Spring Boot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../STUDY_SEC/Web-Dev-Basics" beforeDir="false" afterPath="$PROJECT_DIR$/../STUDY_SEC/Web-Dev-Basics" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../STUDY_SEC/erStore" beforeDir="false" afterPath="$PROJECT_DIR$/../STUDY_SEC/erStore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/src/main/java/com/social/media/MediaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/src/main/java/com/social/media/models/SocialProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/src/main/java/com/social/media/models/SocialUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STUDY_SEC/media/src/test/java/com/social/media/MediaApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,8 +287,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
       </set>
     </attachedChunks>
   </component>
@@ -585,7 +597,8 @@
       <workItem from="1791441745370" duration="692000" />
       <workItem from="1791817952109" duration="301000" />
       <workItem from="1793422340628" duration="2173000" />
-      <workItem from="1793452349283" duration="628000" />
+      <workItem from="1793452349283" duration="785000" />
+      <workItem from="1793506335377" duration="515000" />
     </task>
     <servers />
   </component>
