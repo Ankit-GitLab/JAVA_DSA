@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
       <change beforePath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Postman.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Postman.lnk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../STUDY_SEC/C Language" beforeDir="false" afterPath="$PROJECT_DIR$/../STUDY_SEC/C Language" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../STUDY_SEC/ECOM-FRONTEND" beforeDir="false" afterPath="$PROJECT_DIR$/../STUDY_SEC/ECOM-FRONTEND" afterDir="false" />
@@ -267,7 +269,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -597,6 +599,8 @@
       <workItem from="1793422340628" duration="2173000" />
       <workItem from="1793452349283" duration="785000" />
       <workItem from="1793506335377" duration="1671000" />
+      <workItem from="1793639322307" duration="900000" />
+      <workItem from="1793764754628" duration="1671000" />
     </task>
     <servers />
   </component>
