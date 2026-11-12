@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="65367f9d-d92b-4872-a386-c543a06a5405" name="Changes" comment="">
       <change afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2026.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ankitRevise/sliding_Window/FruitIntoBaskets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ankitRevise/sliding_Window/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
       <change beforePath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" beforeDir="false" afterPath="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.3/projects/java_dsa.6a7a6f8e/cache-state.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Postman.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Postman.lnk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../STUDY_SEC/C Language" beforeDir="false" afterPath="$PROJECT_DIR$/../STUDY_SEC/C Language" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../STUDY_SEC/ECOM-FRONTEND" beforeDir="false" afterPath="$PROJECT_DIR$/../STUDY_SEC/ECOM-FRONTEND" afterDir="false" />
@@ -608,7 +609,7 @@
       <workItem from="1794215599982" duration="1696000" />
       <workItem from="1794288711681" duration="717000" />
       <workItem from="1794417483686" duration="1830000" />
-      <workItem from="1794481009649" duration="739000" />
+      <workItem from="1794481009649" duration="2404000" />
     </task>
     <servers />
   </component>
